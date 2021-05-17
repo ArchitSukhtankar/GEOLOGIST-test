@@ -1,1 +1,2 @@
-# GEOLOGIST-test
+# Geologist
+Geologist Project
